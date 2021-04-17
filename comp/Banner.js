@@ -83,38 +83,3 @@ function Banner(){
 
 
 export default Banner
-
-//notes
-// look to maybe use css grid for the positon of text in the center of the banner
-// the text in the banner does not work on mobel atm, look this up
-
-//used css grid to positon the page elements
-
-
-
-///maybe use minhight for the wording on the banner
-//maybe look to wrap it in a dev and have the hight set to auto or somthing
-
-
-/// final todo list
-// profile pic
-// text on the banner
-// css
-//.Center-Text{
-//    text-align: center;
-//}
-
-
-//look up respposive desgin, and render diffrent sizes or just
-
-
-
-
-
-
-/*
-
-idea for the responsive design
-    -look at what i did for the play btn and may be do that
-    -i dont think this is gonna work
-    */

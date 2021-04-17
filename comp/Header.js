@@ -28,7 +28,7 @@ const Header = () => {
                         layout="responsive"
                         width= {50}
                         height={50}
-                    /> {/* needs to be an img for the round to work */}
+                    /> 
                 </div>
             </div>
 
@@ -74,6 +74,3 @@ const Header = () => {
 }
  
 export default Header;
-
-
-//render html for inner html
