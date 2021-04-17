@@ -72,7 +72,7 @@ function Banner(){
             .heading-paragraph{
                 font-size: 2vw;
                 color: #FFF;
-                line-height: 30px; 
+                line-height: 40px; 
                 font-family: 'Source Sans Pro', sans-serif;
                 margin-bottom: 2%;
               }
